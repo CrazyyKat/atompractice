@@ -1,0 +1,22 @@
+h1 {
+  font-size: 100px;
+  align-content: center;
+  color: palevioletred;
+}
+
+h2 {
+font-family: 'Barriecito', cursive;
+background-color: gold;
+}
+
+.magictext {
+color: white;
+}
+
+body {
+  background-color: pink;
+}
+
+p {
+  color: white;
+}
